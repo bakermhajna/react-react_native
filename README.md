@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+figma url : https://www.figma.com/file/u71regwVmcNOs1MYO6JdB7/eCommerce-Website-%7C-Web-Page-Design-%7C-UI-KIT-%7C-Interior-Landing-Page-(Community)?type=design&node-id=0-1&mode=design&t=42Gp6UK8a59RVxZC-0
 
 ## Available Scripts
 
